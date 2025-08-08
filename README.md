@@ -4,3 +4,5 @@ This is my first git Repository
 Author -- Muhammad Huzaifa Farooq (student)
 
 Add html file & css file
+
+Add new heading in html file & give decoration in style.css file
